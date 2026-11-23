@@ -1,0 +1,7 @@
+{
+  "name": "Focus Group Student Directory",
+  "description": "An official student directory app for Class 6 at Focus Group of Schools and Colleges.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
